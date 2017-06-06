@@ -1,0 +1,19 @@
+div {
+    position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+h1{
+    color: white;
+}
+
+h2 {
+    font-family: cursive;
+    color: white;
+
+}
+img {
+    position: left
+}
